@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectA</string>
+    <string name="MultiIntent">外部呼出し</string>
+
+</resources>
